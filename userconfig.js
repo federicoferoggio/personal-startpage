@@ -104,7 +104,7 @@ const default_config = {
     },
     {
       name: "learn",
-      background_url: "src/img/banners/cbg-6.gif",
+      background_url: "src/img/banners/cbg-06.gif",
       categories: [
         {
           name: "code development",
@@ -191,7 +191,7 @@ const default_config = {
     },
     {
       name: "chill",
-      background_url: "src/img/banners/cbg-4.gif",
+      background_url: "src/img/banners/cbg-04.gif",
       categories: [
         {
           name: "castles and friends",
