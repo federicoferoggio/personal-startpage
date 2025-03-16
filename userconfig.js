@@ -52,9 +52,9 @@ const default_config = {
               icon_color: palette.peach,
             },
             {
-              name: "openAI",
-              url: "https://chatgpt.com",
-              icon: "robot",
+              name: "spotify",
+              url: "https://open.spotify.com",
+              icon: "brand-spotify",
               icon_color: palette.red,
             },
             {
@@ -199,7 +199,7 @@ const default_config = {
             {
               name: "dndbeyond",
               url: "https://www.dndbeyond.com",
-              icon: "number-20-small",
+              icon: "dice-6",
               icon_color: palette.green,
             },
             {
@@ -217,7 +217,7 @@ const default_config = {
           ],
         },
         {
-          name: "exercise",
+          name: "health and mind",
           links: [
             {
               name: "strava",
@@ -232,44 +232,44 @@ const default_config = {
               icon_color: palette.peach,
             },
             {
-              name: "epicgames",
-              url: "https://store.epicgames.com",
-              icon: "brand-fortnite",
+              name: "podcasts",
+              url: "https://pocketcasts.com",
+              icon: "podcast",
               icon_color: palette.red,
             },
             {
-              name: "nintendo",
-              url: "https://store.nintendo.co.uk",
-              icon: "device-nintendo",
+              name: "kindle",
+              url: "https://read.amazon.com",
+              icon: "book",
               icon_color: palette.blue,
             },
           ],
         },
         {
-          name: "video",
+          name: "vidoes",
           links: [
             {
-              name: "anilist",
-              url: "https://anilist.co/home",
-              icon: "brand-funimation",
+              name: "netflix",
+              url: "https://www.netflix.com",
+              icon: "brand-netflix",
               icon_color: palette.green,
             },
             {
-              name: "youtube",
-              url: "https://www.youtube.com",
-              icon: "brand-youtube",
+              name: "primevideo",
+              url: "https://www.primevideo.com",
+              icon: "brand-amazon",
               icon_color: palette.peach,
             },
             {
-              name: "patreon",
-              url: "https://www.patreon.com",
-              icon: "brand-patreon",
+              name: "apple-tv",
+              url: "https://tv.apple.com",
+              icon: "brand-apple",
               icon_color: palette.red,
             },
             {
-              name: "kyivstar",
-              url: "https://tv.kyivstar.ua",
-              icon: "star-filled",
+              name: "dropout",
+              url: "https://www.dropout.tv",
+              icon: "letter-d",
               icon_color: palette.blue,
             },
           ],
